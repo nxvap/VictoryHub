@@ -137,7 +137,7 @@ mini2.Visible = false
 speeds = 1
 fly = false
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Follow the creator!",
+    Title = "Notify",
     Text = "Follow me for more scripts: @Roun95",
     Icon = game.Players:GetUserThumbnailAsync(game.Players:GetUserIdFromNameAsync("Roun95"), Enum.ThumbnailType.HeadShot, Enum.ThumbnailSize.Size420x420),
     Duration = 10
